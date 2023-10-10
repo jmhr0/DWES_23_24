@@ -12,8 +12,7 @@
         <!-- cabecera documento -->
         <header class="pb-3 mb-4 border-bottom">
             <i class="bi bi-calculator"></i>
-            <span class="fs-6"></span>
-            Calculadora Conversor decimal  
+            <span class="fs-6"></span> 
         </header>
 
         <legend>Formulario  Conversor</legend>
