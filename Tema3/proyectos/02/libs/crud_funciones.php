@@ -11,9 +11,9 @@
                     -tabla actualizada
         */
 
-        function delete($tabla = [], $id) {
-            foreach ($tabla as $clave => $elemento) {
-                if ($elemento['id'] == $id) {
+        function eliminar($tabla = [], $id) {
+            foreach ($tabla as $clave => $campo) {
+                if ($campo['id'] == $id) {
                     unset($tabla[$clave]);
                 }
             }
