@@ -2,10 +2,9 @@
 <html lang="es">
 <head>
     <!-- Incluir head -->
-    <title>Actividad 3.2 Actividad</title>
+    <title>Proyecto 3.4 Libros Parte 1</title>
     <?php
     include 'layouts/head.html';
-    include 'C:\xampp\htdocs\dwes\Tema3\proyectos\02\libs\crud_funciones.php'
     ?>
 </head>
 
